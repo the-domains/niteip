@@ -1,7 +1,7 @@
 name: niteip
 favicon: null
-layout_spectrum: 0.4946663281880319
-typography_spectrum: 0.7766484962776303
+layout_spectrum: 1
+typography_spectrum: 0.85853
 title: 'Nothing is true, everything is permitted'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#dbd8d3'
+    - '#928f8a'
+    - '#8b2926'
+    - '#410c00'
+    - '#e67c6f'
   brandStrength: 0.9885600237175822
   lightness: 0.8766832866240293
   saturation: 0.7847233768552542
