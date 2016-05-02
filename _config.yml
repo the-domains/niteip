@@ -1,0 +1,28 @@
+name: niteip
+favicon: null
+layout_spectrum: 0.4946663281880319
+typography_spectrum: 0.7766484962776303
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9885600237175822
+  lightness: 0.8766832866240293
+  saturation: 0.7847233768552542
+  rhythmicContrast: 0.6300194833893329
+purpose: []
