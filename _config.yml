@@ -15,14 +15,14 @@ collections:
 color:
   saturation: 0.07885305
   brandStrength: 0.202509
-  lightness: 0.2526882
+  lightness: 1
   brandColors:
     - '#dbd8d3'
     - '#928f8a'
     - '#8b2926'
     - '#410c00'
     - '#e67c6f'
-  rhythmicContrast: 0.3637993
+  rhythmicContrast: 0.1666667
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: niteip
+favicon: null
 opengraph:
   image: null
   type: null
