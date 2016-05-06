@@ -5,12 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin in fermentum nunc. Donec interdum nibh vitae rutrum tempus. Phasellus pellentesque hendrerit urna. Mauris ligula dolor, cursus quis pharetra vehicula, condimentum quis tortor. Integer vitae sem congue, condimentum turpis in, semper nunc. Donec pharetra sapien quam, nec mollis nibh venenatis vitae. Phasellus nec mollis magna. Donec eleifend ipsum vitae tristique laoreet.'
-datePublished: '2016-05-03T07:35:04.562Z'
-dateModified: '2016-05-03T07:34:48.945Z'
+datePublished: '2016-05-06T14:26:28.537Z'
+dateModified: '2016-05-03T07:35:33.265Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-03-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-pro.md
-published: true
 authors: []
 publisher:
   name: null
