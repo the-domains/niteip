@@ -4,8 +4,15 @@
         <description><![CDATA[Nothing is true, everything is permitted]]></description>
         <link>https://thegrid.ai/niteip/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 15:48:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 15:48:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/niteip/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://vignette2.wikia.nocookie.net/assassinscreed/images/5/53/CCrasher_5.png/revision/latest?cb=20111116164441">]]></description>
+            <link>https://thegrid.ai/niteip/f7696937-71db-43cc-8a1c-eccd8558f9dd/index.html</link>
+            <guid isPermaLink="false">f7696937-71db-43cc-8a1c-eccd8558f9dd</guid>
+            <pubDate>Wed, 17 Aug 2016 15:48:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cesare Borgia]]></title>
             <description><![CDATA[<article><h1>Cesare Borgia</h1><p>Cesare Borgia (1475 - 1507) was an illegitimate son of Rodrigo Borgia and a nemesis of the Assassin Ezio Auditore da Firenze. Like his father, he was a member of the Templar Order. Eventually, he became Captain General of the Papal armies, though he secretly plotted against his father to take over Rome, and all of Italy afterward.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e51164be565e798e284245d2e99097d4/noop?input=http%3A%2F%2Fvignette2.wikia.nocookie.net%2Fassassinscreed%2Fimages%2F1%2F19%2FACB_Cesare_render.png%2Frevision%2Flatest%3Fcb%3D20130406153037"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://rbf-productions-nl.deviantart.com/art/Assassin-s-Creed-Movie-Aguilar-cosplay-finished-622230574</link>
             <guid isPermaLink="false">2cb79049-6640-4aba-aba4-5f76fa985704</guid>
             <pubDate>Wed, 10 Aug 2016 18:06:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cesare Borgia, duke of Valentinois | Italian noble]]></title>
-            <description><![CDATA[<article><h1>Cesare Borgia, duke of Valentinois | Italian noble</h1><p>Also known as Cesare Borgia, duca Valentino Duca Valentino born c. 1475 or c. 1476 Rome , Italy died 1507 Viana, Spain Cesare Borgia, duke of Valentinois , Italian Duca Valentino (born c. 1475/76, probably Rome [Italy]-died 1507, near Viana, Spain ) natural son of Pope Alexander VI .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b432f0d479762e62cbae18d0c18bd4f6620450d8.jpg"></article>]]></description>
-            <link>http://www.britannica.com/biography/Cesare-Borgia-duke-of-Valentinois</link>
-            <guid isPermaLink="false">85a5b03b-4c3b-46eb-bdf7-5b59cea0a30d</guid>
-            <pubDate>Tue, 03 May 2016 07:12:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
