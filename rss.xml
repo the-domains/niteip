@@ -4,8 +4,15 @@
         <description><![CDATA[Nothing is true, everything is permitted]]></description>
         <link>https://thegrid.ai/niteip/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 15:48:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 15:54:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/niteip/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://static.srcdn.com/wp-content/uploads/Michael-Fassbender-Aguilar-Assassins-Creed.jpg">]]></description>
+            <link>https://thegrid.ai/niteip/f7448874-eaa4-4e76-83d4-bc6afbd72aff/index.html</link>
+            <guid isPermaLink="false">f7448874-eaa4-4e76-83d4-bc6afbd72aff</guid>
+            <pubDate>Wed, 17 Aug 2016 15:54:24 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://vignette2.wikia.nocookie.net/assassinscreed/images/5/53/CCrasher_5.png/revision/latest?cb=20111116164441">]]></description>
@@ -68,13 +75,6 @@
             <link>https://council.assassinscreed.com/#!/article/what-your-favorite-assassins-creed-gamer-11589</link>
             <guid isPermaLink="false">c6627c72-2e71-4914-8da7-3695377ade19</guid>
             <pubDate>Wed, 10 Aug 2016 18:07:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Assassin's Creed Movie - Aguilar cosplay finished]]></title>
-            <description><![CDATA[<article><h1>Assassin's Creed Movie - Aguilar cosplay finished</h1><p>It's done!!! Finally On to SDCC!!!! Costume made and worn by Rick Boer www.facebook.com/rickboerfanta&hellip; Assassin's Creed Movie - Aguilar cosplay finished</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ecd0d2a718db4bcdcb4682f9d74167ef/noop.jpg?input=http%3A%2F%2Fpre08.deviantart.net%2F57b3%2Fth%2Fpre%2Fi%2F2016%2F199%2F8%2Ff%2Fassassin_s_creed_movie___aguilar_cosplay_finished_by_rbf_productions_nl-daagk6m.jpg"></article>]]></description>
-            <link>http://rbf-productions-nl.deviantart.com/art/Assassin-s-Creed-Movie-Aguilar-cosplay-finished-622230574</link>
-            <guid isPermaLink="false">2cb79049-6640-4aba-aba4-5f76fa985704</guid>
-            <pubDate>Wed, 10 Aug 2016 18:06:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
