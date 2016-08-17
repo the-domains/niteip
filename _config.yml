@@ -1,5 +1,8 @@
+name: niteip
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.3673835
 title: 'Nothing is true, everything is permitted'
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.875
-  brandStrength: 0
-  rhythmicContrast: 0.5
   brandColors:
     - '#dbd8d3'
     - '#928f8a'
     - '#8b2926'
     - '#410c00'
     - '#e67c6f'
+  brandStrength: 0.0625
   lightness: 0.6875
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: niteip
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.3673835
-layout_spectrum: 1
+  saturation: 0.875
+  rhythmicContrast: 0.5
+purpose: []
