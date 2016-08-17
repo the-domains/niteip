@@ -4,8 +4,15 @@
         <description><![CDATA[Nothing is true, everything is permitted]]></description>
         <link>https://thegrid.ai/niteip/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 15:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 15:23:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/niteip/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lucrezia Borgia]]></title>
+            <description><![CDATA[<article><h1>Lucrezia Borgia</h1><p>Lucrezia Borgia (1480 - 1519) was the illegitimate daughter of Rodrigo Borgia, and the younger sister of Cesare Borgia. She was a member of the Templar Order, and later became the Duchess of Ferrara. During her lifetime, Lucrezia was ruthlessly betrothed by her father twice before her thirteenth birthday, in order to secure political alliances.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0e675a42c3818182a28401d0f0a5a5e2/croprotate?cropheight=3000&cropwidth=1231&degrees=0&input=http%3A%2F%2Fvignette1.wikia.nocookie.net%2Fassassinscreed%2Fimages%2Fc%2Fc8%2FACB_Lucrezia_render.png%2Frevision%2Flatest%3Fcb%3D20130406184549&x=27&y=30"></article>]]></description>
+            <link>http://assassinscreed.wikia.com/wiki/Lucrezia_Borgia</link>
+            <guid isPermaLink="false">4db25492-36ab-472d-9226-3091833b1e9d</guid>
+            <pubDate>Wed, 17 Aug 2016 15:22:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Leonardo da Vinci]]></title>
             <description><![CDATA[<article><h1>Leonardo da Vinci</h1><p>Leonardo di ser Piero da Vinci (1452 - 1519) was an anatomist, sculptor, cartographer, painter, botanist, engineer, architect, and mathematician of the Renaissance. He is widely regarded by scholars, engineers, and artists around the world to be one of the greatest minds in history.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/65467131f173e8b09f153fefefef4d7e/croprotate?cropheight=2758&cropwidth=1103&degrees=0&input=http%3A%2F%2Fvignette2.wikia.nocookie.net%2Fassassinscreed%2Fimages%2F3%2F3b%2FACB_Leonardo_render.png%2Frevision%2Flatest%3Fcb%3D20130408102650&x=0&y=51"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Assassin's Creed: Lineage (TV Mini-Series 2009)</h1><p>With Romano Orzari, Manuel Tadros, Jesse Rath, Devon Bostick. The story is a prequel to the video game Assassin's Creed II. It centers around the father of the game's main character, Ezio Auditore da Firenze. Giovanni is an assassin living during the Renaissance in 15th century Italy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ed3448030b53f2590c7349273e1a6880dcf3660.jpg"></article>]]></description>
             <link>http://www.imdb.com/title/tt1587390/?ref_=tt_rec_tt</link>
             <guid isPermaLink="false">b4648dd2-a132-49c8-bef8-65cd6d328763</guid>
-            <pubDate>Mon, 02 May 2016 17:17:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Assassin's Creed: Ascendance (2010)]]></title>
-            <description><![CDATA[<article><h1>Assassin's Creed: Ascendance (2010)</h1><p>Directed by Laurent Bernier. With Arthur Holden, Roger Craig Smith, Carlos Ferro, Harry Standjofski. The story is the bridges the gap of Assassin's Creed II and Assassin's Creed Brotherhood. After the destruction of Monteriggioni in the year 1500, Ezio met with Leonardo Da Vinci to gather information about the Pope's son, Cesare Borgia.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f7629b3be6c33364b775de284f5fa2bb49a9519c.jpg"></article>]]></description>
-            <link>http://www.imdb.com/title/tt1827362/?ref_=tt_rec_tt</link>
-            <guid isPermaLink="false">3b3d4af8-5749-4489-b03f-252c50de00f1</guid>
             <pubDate>Mon, 02 May 2016 17:17:08 GMT</pubDate>
         </item>
     </channel>
