@@ -4,8 +4,15 @@
         <description><![CDATA[Nothing is true, everything is permitted]]></description>
         <link>https://thegrid.ai/niteip/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 18:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 15:21:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/niteip/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Leonardo da Vinci]]></title>
+            <description><![CDATA[<article><h1>Leonardo da Vinci</h1><p>Leonardo di ser Piero da Vinci (1452 - 1519) was an anatomist, sculptor, cartographer, painter, botanist, engineer, architect, and mathematician of the Renaissance. He is widely regarded by scholars, engineers, and artists around the world to be one of the greatest minds in history.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/65467131f173e8b09f153fefefef4d7e/croprotate?cropheight=2758&cropwidth=1103&degrees=0&input=http%3A%2F%2Fvignette2.wikia.nocookie.net%2Fassassinscreed%2Fimages%2F3%2F3b%2FACB_Leonardo_render.png%2Frevision%2Flatest%3Fcb%3D20130408102650&x=0&y=51"></article>]]></description>
+            <link>http://assassinscreed.wikia.com/wiki/Leonardo_da_Vinci?file=ACB_Leonardo_render.png</link>
+            <guid isPermaLink="false">4153d75f-d8dc-4204-8e1b-2de6cf4939f3</guid>
+            <pubDate>Wed, 17 Aug 2016 15:21:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wish this website had more functionality]]></title>
             <description><![CDATA[<article><h1>Wish this website had more functionality</h1><p>The fight never stops! Become an Initiate to join the modern day Brotherhood and start training among the Assassins. Complete new drills every day in Assassin's Creed Unity and Assassin's Creed Rogue, unlock exclusive in-game content, track your accomplishments, and evolve in the Assassin's Creed universe.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/675400ee036aa7ad737cbb98be2f0d9b/noop.jpg?input=http%3A%2F%2Fd3bn78kc7qbjb6.cloudfront.net%2Frc-0.0.0.392%2Fimages%2Faci-share-joined.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.imdb.com/title/tt1827362/?ref_=tt_rec_tt</link>
             <guid isPermaLink="false">3b3d4af8-5749-4489-b03f-252c50de00f1</guid>
             <pubDate>Mon, 02 May 2016 17:17:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Assassin's Creed (2016)]]></title>
-            <description><![CDATA[<article><h1>Assassin's Creed (2016)</h1><p>Status: Post-production | See complete list of in-production titles " Updated: 10 January 2016 More Info: See more production information about this title on IMDbPro. Through a revolutionary technology that unlocks his genetic memories, Callum Lynch (Michael Fassbender) experiences the adventures of his ancestor, Aguilar, in 15th Century Spain.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0869c5bf4b2d4e80b459bb81f620cce0e31d0ee.jpg"></article>]]></description>
-            <link>http://www.imdb.com/title/tt2094766/?ref_=ttmd_md_nm</link>
-            <guid isPermaLink="false">40806099-63d1-4fcf-8e36-978d7589b03e</guid>
-            <pubDate>Mon, 02 May 2016 17:17:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
