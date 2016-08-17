@@ -4,8 +4,15 @@
         <description><![CDATA[Nothing is true, everything is permitted]]></description>
         <link>https://thegrid.ai/niteip/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 15:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2016 15:48:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/niteip/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Cesare Borgia]]></title>
+            <description><![CDATA[<article><h1>Cesare Borgia</h1><p>Cesare Borgia (1475 - 1507) was an illegitimate son of Rodrigo Borgia and a nemesis of the Assassin Ezio Auditore da Firenze. Like his father, he was a member of the Templar Order. Eventually, he became Captain General of the Papal armies, though he secretly plotted against his father to take over Rome, and all of Italy afterward.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e51164be565e798e284245d2e99097d4/noop?input=http%3A%2F%2Fvignette2.wikia.nocookie.net%2Fassassinscreed%2Fimages%2F1%2F19%2FACB_Cesare_render.png%2Frevision%2Flatest%3Fcb%3D20130406153037"></article>]]></description>
+            <link>http://assassinscreed.wikia.com/wiki/Cesare_Borgia</link>
+            <guid isPermaLink="false">f8594c0e-4962-4aa9-a746-52db5aab0664</guid>
+            <pubDate>Wed, 17 Aug 2016 15:48:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Micheletto Corella]]></title>
             <description><![CDATA[<article><h1>Micheletto Corella</h1><p>Micheletto Corella (1470 - 1506), also known as Michele di Coreglia or Miguel de Corella, was a condottiero and a member of the Templar Order, as well as the personal bodyguard and assassin of Cesare Borgia. At one point, he was also the Governor of Piombino.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a4b66719a632d3c29fe452d799f2e696/noop?input=http%3A%2F%2Fvignette1.wikia.nocookie.net%2Fassassinscreed%2Fimages%2F1%2F1d%2FFrancesco_Micheletto.png%2Frevision%2Flatest%3Fcb%3D20111009173947"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.britannica.com/biography/Cesare-Borgia-duke-of-Valentinois</link>
             <guid isPermaLink="false">85a5b03b-4c3b-46eb-bdf7-5b59cea0a30d</guid>
             <pubDate>Tue, 03 May 2016 07:12:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Assassins Creed Ascendance]]></title>
-            <description><![CDATA[<article><h1>Assassins Creed Ascendance</h1><p>Visita www.tuputeada.com.ar Exelente contenido animado de la saga assassins creed. En esta version obtendremos informacion sobre ezzio y cesar borgia.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0486461ae2c2b5ed0347dcad5f31677c6f897582.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=QFVBwUhQnbI</link>
-            <guid isPermaLink="false">386be583-6f86-424f-81f3-cea9d62143c8</guid>
-            <pubDate>Tue, 03 May 2016 07:05:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
