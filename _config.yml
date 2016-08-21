@@ -1,41 +1,41 @@
-layout_spectrum: 0.11623742640949786
-typography_spectrum: 0.8108001002110541
-color:
-  brandColors:
-    - '#DBD8D3'
-    - '#928F8A'
-    - '#8B2926'
-    - '#3A3633'
-    - '#825850'
-  brandStrength: 0.5939873312599957
-  lightness: 0.6623016921803355
-  saturation: 0.2968361012171954
-  rhythmicContrast: 0.01311271102167666
-opengraph:
-  image: null
-  type: null
-  appId: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: niteip
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
+title: 'Nothing is true, everything is permitted'
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-title: 'Nothing is true, everything is permitted'
-purpose: []
+    permalink:
+      path: '/:title/'
+color:
+  saturation: 0.2968361
+  brandStrength: 0.7293907
+  lightness: 0.6623017
+  brandColors:
+    - '#DBD8D3'
+    - '#928F8A'
+    - '#8B2926'
+    - '#3A3633'
+    - '#825850'
+  rhythmicContrast: 0.2921147
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: niteip
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.8108001002110541
+layout_spectrum: 0.9659498
